@@ -12,11 +12,24 @@ CHECK_NAME = "Abbreviation"
 
 # Minimal exemption list
 MINIMAL_EXEMPT = {
-    'IEEE', 'ISO', 'SI', 'ITU',
+    # Standards/organizations
+    'IEEE', 'ISO', 'SI', 'ITU', 'ACM', 'AAAI', 'ICML', 'NeurIPS', 'ICLR',
+    # Punctuation abbreviations
     'i.e.', 'e.g.', 'et al.', 'etc.', 'vs.',
+    # Units
     'dB', 'dBm', 'Hz', 'kHz', 'MHz', 'GHz', 'THz',
     'km', 'cm', 'mm', 'nm', 'ms', 'ns', 'ps',
     'kW', 'mW', 'Mbps', 'Gbps', 'kbps',
+    # CS universally known (no paper ever defines these)
+    'API', 'APIs', 'GPU', 'GPUs', 'CPU', 'CPUs', 'TPU', 'TPUs',
+    'URL', 'HTTP', 'HTTPS', 'JSON', 'XML', 'SQL', 'HTML', 'CSS',
+    'RAM', 'ROM', 'USB', 'PDF', 'OS',
+    'FLOPs', 'FLOP',
+    # AI/ML universally known
+    'AI', 'ML', 'DL', 'NLP', 'CV', 'RL', 'GAN', 'GANs',
+    'VAE', 'MLP', 'CNN', 'RNN', 'LSTM', 'GRU',
+    'LLM', 'LLMs', 'GPT', 'BERT', 'SFT', 'RLHF', 'PPO', 'DPO',
+    'SOTA', 'IoT',
 }
 
 PSEUDO_CODE_KEYWORDS = {

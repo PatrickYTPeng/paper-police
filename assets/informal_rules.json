@@ -186,46 +186,6 @@
       "note": "translationese"
     },
     {
-      "pattern": "get",
-      "replacement": "obtain / achieve / acquire",
-      "note": "informal verb"
-    },
-    {
-      "pattern": "got",
-      "replacement": "obtained / achieved",
-      "note": "informal verb"
-    },
-    {
-      "pattern": "thing",
-      "replacement": "aspect / factor / element",
-      "note": "informal noun"
-    },
-    {
-      "pattern": "things",
-      "replacement": "aspects / factors / elements",
-      "note": "informal noun"
-    },
-    {
-      "pattern": "bad",
-      "replacement": "poor / adverse / unfavorable",
-      "note": "informal adjective"
-    },
-    {
-      "pattern": "big",
-      "replacement": "large / significant / substantial",
-      "note": "informal adjective"
-    },
-    {
-      "pattern": "very",
-      "replacement": "highly / substantially / considerably",
-      "note": "informal intensifier"
-    },
-    {
-      "pattern": "really",
-      "replacement": "substantially / considerably",
-      "note": "informal intensifier"
-    },
-    {
       "pattern": "so that",
       "replacement": "such that / to ensure that",
       "note": "informal connector"
@@ -454,16 +414,6 @@
       "pattern": "stuff",
       "replacement": "[use specific noun]",
       "note": "informal noun"
-    },
-    {
-      "pattern": "basically",
-      "replacement": "fundamentally / essentially",
-      "note": "informal adverb"
-    },
-    {
-      "pattern": "actually",
-      "replacement": "in fact / indeed",
-      "note": "informal adverb (context-dependent)"
     },
     {
       "pattern": "obviously",
