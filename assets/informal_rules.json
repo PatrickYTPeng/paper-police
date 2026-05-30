@@ -1,0 +1,529 @@
+{
+  "_meta": {
+    "description": "Informal expression replacement rules for PaperPolice",
+    "format": "pattern → suggestion (case-insensitive matching)",
+    "sources": [
+      "GMU Writing Center",
+      "Purdue OWL",
+      "Academic writing guides",
+      "Common translationese patterns"
+    ]
+  },
+  "rules": [
+    {
+      "pattern": "in order to",
+      "replacement": "to",
+      "note": "redundant"
+    },
+    {
+      "pattern": "due to the fact that",
+      "replacement": "because",
+      "note": "redundant"
+    },
+    {
+      "pattern": "in spite of the fact that",
+      "replacement": "although / despite",
+      "note": "redundant"
+    },
+    {
+      "pattern": "for the purpose of",
+      "replacement": "to / for",
+      "note": "redundant"
+    },
+    {
+      "pattern": "in the event that",
+      "replacement": "if",
+      "note": "redundant"
+    },
+    {
+      "pattern": "on the other hand",
+      "replacement": "conversely / alternatively",
+      "note": "informal connector"
+    },
+    {
+      "pattern": "a large number of",
+      "replacement": "many / numerous",
+      "note": "redundant"
+    },
+    {
+      "pattern": "a lot of",
+      "replacement": "many / numerous / substantial",
+      "note": "informal"
+    },
+    {
+      "pattern": "lots of",
+      "replacement": "many / numerous",
+      "note": "informal"
+    },
+    {
+      "pattern": "kind of",
+      "replacement": "somewhat / relatively",
+      "note": "informal"
+    },
+    {
+      "pattern": "sort of",
+      "replacement": "somewhat / relatively",
+      "note": "informal"
+    },
+    {
+      "pattern": "a little bit",
+      "replacement": "slightly",
+      "note": "informal"
+    },
+    {
+      "pattern": "it is worth noting that",
+      "replacement": "notably / note that",
+      "note": "redundant"
+    },
+    {
+      "pattern": "it is worth mentioning that",
+      "replacement": "notably",
+      "note": "redundant"
+    },
+    {
+      "pattern": "it should be noted that",
+      "replacement": "note that / notably",
+      "note": "redundant"
+    },
+    {
+      "pattern": "it can be seen that",
+      "replacement": "[state result directly]",
+      "note": "redundant"
+    },
+    {
+      "pattern": "it is obvious that",
+      "replacement": "[state directly]",
+      "note": "redundant subjective"
+    },
+    {
+      "pattern": "it is clear that",
+      "replacement": "[state directly] / clearly",
+      "note": "redundant"
+    },
+    {
+      "pattern": "it is well known that",
+      "replacement": "[state directly]",
+      "note": "redundant, lacks citation"
+    },
+    {
+      "pattern": "as we all know",
+      "replacement": "[remove or add citation]",
+      "note": "informal, lacks citation"
+    },
+    {
+      "pattern": "as is known to all",
+      "replacement": "[remove or add citation]",
+      "note": "informal, lacks citation"
+    },
+    {
+      "pattern": "needless to say",
+      "replacement": "[remove]",
+      "note": "informal"
+    },
+    {
+      "pattern": "plays an important role",
+      "replacement": "is essential / is critical",
+      "note": "translationese"
+    },
+    {
+      "pattern": "plays a crucial role",
+      "replacement": "is crucial / is essential",
+      "note": "translationese"
+    },
+    {
+      "pattern": "plays a key role",
+      "replacement": "is key / is central",
+      "note": "translationese"
+    },
+    {
+      "pattern": "plays a vital role",
+      "replacement": "is vital / is essential",
+      "note": "translationese"
+    },
+    {
+      "pattern": "with the development of",
+      "replacement": "as X develops / with advances in",
+      "note": "translationese"
+    },
+    {
+      "pattern": "with the rapid development of",
+      "replacement": "with recent advances in",
+      "note": "translationese"
+    },
+    {
+      "pattern": "in recent years",
+      "replacement": "recently",
+      "note": "can be simplified"
+    },
+    {
+      "pattern": "more and more",
+      "replacement": "increasingly",
+      "note": "informal"
+    },
+    {
+      "pattern": "bigger and bigger",
+      "replacement": "increasingly large",
+      "note": "informal"
+    },
+    {
+      "pattern": "has been widely used",
+      "replacement": "is widely adopted / is prevalent",
+      "note": "can be simplified (context-dependent)"
+    },
+    {
+      "pattern": "has attracted wide attention",
+      "replacement": "has gained considerable interest",
+      "note": "translationese"
+    },
+    {
+      "pattern": "has attracted much attention",
+      "replacement": "has received considerable attention",
+      "note": "translationese"
+    },
+    {
+      "pattern": "has attracted extensive attention",
+      "replacement": "has received considerable attention",
+      "note": "translationese"
+    },
+    {
+      "pattern": "get",
+      "replacement": "obtain / achieve / acquire",
+      "note": "informal verb"
+    },
+    {
+      "pattern": "got",
+      "replacement": "obtained / achieved",
+      "note": "informal verb"
+    },
+    {
+      "pattern": "thing",
+      "replacement": "aspect / factor / element",
+      "note": "informal noun"
+    },
+    {
+      "pattern": "things",
+      "replacement": "aspects / factors / elements",
+      "note": "informal noun"
+    },
+    {
+      "pattern": "bad",
+      "replacement": "poor / adverse / unfavorable",
+      "note": "informal adjective"
+    },
+    {
+      "pattern": "big",
+      "replacement": "large / significant / substantial",
+      "note": "informal adjective"
+    },
+    {
+      "pattern": "very",
+      "replacement": "highly / substantially / considerably",
+      "note": "informal intensifier"
+    },
+    {
+      "pattern": "really",
+      "replacement": "substantially / considerably",
+      "note": "informal intensifier"
+    },
+    {
+      "pattern": "so that",
+      "replacement": "such that / to ensure that",
+      "note": "informal connector"
+    },
+    {
+      "pattern": "at the same time",
+      "replacement": "simultaneously / concurrently",
+      "note": "can be simplified"
+    },
+    {
+      "pattern": "by means of",
+      "replacement": "by / using / via",
+      "note": "redundant"
+    },
+    {
+      "pattern": "in terms of",
+      "replacement": "regarding / concerning / for",
+      "note": "often overused"
+    },
+    {
+      "pattern": "on account of",
+      "replacement": "because of / owing to",
+      "note": "redundant"
+    },
+    {
+      "pattern": "with regard to",
+      "replacement": "regarding / concerning",
+      "note": "redundant"
+    },
+    {
+      "pattern": "with respect to",
+      "replacement": "regarding / for",
+      "note": "can be simplified (context-dependent)"
+    },
+    {
+      "pattern": "a great deal of",
+      "replacement": "much / considerable",
+      "note": "redundant"
+    },
+    {
+      "pattern": "the reason why",
+      "replacement": "[use because directly]",
+      "note": "redundant"
+    },
+    {
+      "pattern": "the way in which",
+      "replacement": "how",
+      "note": "redundant"
+    },
+    {
+      "pattern": "despite the fact that",
+      "replacement": "although / despite",
+      "note": "redundant"
+    },
+    {
+      "pattern": "based on the fact that",
+      "replacement": "because / since",
+      "note": "redundant"
+    },
+    {
+      "pattern": "make use of",
+      "replacement": "use / employ / utilize",
+      "note": "redundant"
+    },
+    {
+      "pattern": "take into account",
+      "replacement": "consider",
+      "note": "redundant"
+    },
+    {
+      "pattern": "take into consideration",
+      "replacement": "consider",
+      "note": "redundant"
+    },
+    {
+      "pattern": "come up with",
+      "replacement": "propose / develop",
+      "note": "informal"
+    },
+    {
+      "pattern": "figure out",
+      "replacement": "determine / identify",
+      "note": "informal"
+    },
+    {
+      "pattern": "find out",
+      "replacement": "determine / discover / identify",
+      "note": "informal"
+    },
+    {
+      "pattern": "carry out",
+      "replacement": "perform / conduct",
+      "note": "acceptable but can be more precise"
+    },
+    {
+      "pattern": "point out",
+      "replacement": "note / indicate / highlight",
+      "note": "acceptable but can be more precise"
+    },
+    {
+      "pattern": "put forward",
+      "replacement": "propose / suggest",
+      "note": "informal"
+    },
+    {
+      "pattern": "and so on",
+      "replacement": "etc. / among others",
+      "note": "informal"
+    },
+    {
+      "pattern": "and so forth",
+      "replacement": "etc.",
+      "note": "informal"
+    },
+    {
+      "pattern": "first of all",
+      "replacement": "first",
+      "note": "redundant"
+    },
+    {
+      "pattern": "last but not least",
+      "replacement": "finally",
+      "note": "informal"
+    },
+    {
+      "pattern": "as a matter of fact",
+      "replacement": "in fact",
+      "note": "redundant"
+    },
+    {
+      "pattern": "on the contrary",
+      "replacement": "conversely / in contrast",
+      "note": "can be more precise"
+    },
+    {
+      "pattern": "the above-mentioned",
+      "replacement": "the aforementioned / the preceding",
+      "note": "translationese"
+    },
+    {
+      "pattern": "above-mentioned",
+      "replacement": "aforementioned / preceding",
+      "note": "translationese"
+    },
+    {
+      "pattern": "up to now",
+      "replacement": "to date",
+      "note": "informal"
+    },
+    {
+      "pattern": "till now",
+      "replacement": "to date / thus far",
+      "note": "informal"
+    },
+    {
+      "pattern": "what's more",
+      "replacement": "furthermore / moreover",
+      "note": "informal"
+    },
+    {
+      "pattern": "besides",
+      "replacement": "moreover / furthermore / additionally",
+      "note": "informal connector"
+    },
+    {
+      "pattern": "talks about",
+      "replacement": "discusses / addresses",
+      "note": "informal verb"
+    },
+    {
+      "pattern": "go up",
+      "replacement": "increase / rise",
+      "note": "informal verb"
+    },
+    {
+      "pattern": "go down",
+      "replacement": "decrease / decline",
+      "note": "informal verb"
+    },
+    {
+      "pattern": "look at",
+      "replacement": "examine / investigate / analyze",
+      "note": "informal verb"
+    },
+    {
+      "pattern": "set up",
+      "replacement": "establish / configure",
+      "note": "informal verb"
+    },
+    {
+      "pattern": "give up",
+      "replacement": "abandon / relinquish",
+      "note": "informal verb"
+    },
+    {
+      "pattern": "show up",
+      "replacement": "appear / emerge",
+      "note": "informal verb"
+    },
+    {
+      "pattern": "turn out",
+      "replacement": "prove / result in",
+      "note": "informal verb"
+    },
+    {
+      "pattern": "deal with",
+      "replacement": "address / handle",
+      "note": "informal verb"
+    },
+    {
+      "pattern": "a bit",
+      "replacement": "slightly / marginally",
+      "note": "informal"
+    },
+    {
+      "pattern": "pretty much",
+      "replacement": "approximately / largely",
+      "note": "informal"
+    },
+    {
+      "pattern": "right away",
+      "replacement": "immediately",
+      "note": "informal"
+    },
+    {
+      "pattern": "stuff",
+      "replacement": "[use specific noun]",
+      "note": "informal noun"
+    },
+    {
+      "pattern": "basically",
+      "replacement": "fundamentally / essentially",
+      "note": "informal adverb"
+    },
+    {
+      "pattern": "actually",
+      "replacement": "in fact / indeed",
+      "note": "informal adverb (context-dependent)"
+    },
+    {
+      "pattern": "obviously",
+      "replacement": "[remove] / clearly",
+      "note": "subjective adverb"
+    },
+    {
+      "pattern": "of course",
+      "replacement": "[remove]",
+      "note": "informal"
+    },
+    {
+      "pattern": "anyway",
+      "replacement": "nevertheless / regardless",
+      "note": "informal"
+    },
+    {
+      "pattern": "has been widely studied",
+      "replacement": "has received extensive research attention",
+      "note": "translationese"
+    },
+    {
+      "pattern": "has great significance",
+      "replacement": "is significant / is crucial",
+      "note": "translationese"
+    },
+    {
+      "pattern": "is of great significance",
+      "replacement": "is significant / is crucial",
+      "note": "translationese"
+    },
+    {
+      "pattern": "is of great importance",
+      "replacement": "is essential / is critical",
+      "note": "translationese"
+    },
+    {
+      "pattern": "can be divided into",
+      "replacement": "comprises / consists of",
+      "note": "translationese"
+    },
+    {
+      "pattern": "it can be concluded that",
+      "replacement": "[state conclusion directly]",
+      "note": "redundant translationese"
+    },
+    {
+      "pattern": "to the best of our knowledge",
+      "replacement": "[remove or add citation]",
+      "note": "often overused"
+    },
+    {
+      "pattern": "the research results show that",
+      "replacement": "results indicate / demonstrate",
+      "note": "redundant translationese"
+    },
+    {
+      "pattern": "in this paper we propose",
+      "replacement": "this paper proposes / we propose",
+      "note": "can be simplified"
+    }
+  ]
+}
